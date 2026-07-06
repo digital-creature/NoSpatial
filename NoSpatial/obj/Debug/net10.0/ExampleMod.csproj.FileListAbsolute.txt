@@ -1,3 +1,0 @@
-/home/ben/code/Resonite Mods/ExampleMod-main/ExampleMod/obj/Debug/net10.0/ExampleMod.csproj.AssemblyReference.cache
-/home/ben/code/Resonite Mods/ExampleMod-main/ExampleMod/obj/Debug/net10.0/ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
-/home/ben/code/Resonite Mods/ExampleMod-main/ExampleMod/obj/Debug/net10.0/ExampleMod.csproj.CoreCompileInputs.cache
