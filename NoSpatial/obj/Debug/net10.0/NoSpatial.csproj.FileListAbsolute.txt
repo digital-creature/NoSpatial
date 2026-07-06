@@ -1,0 +1,11 @@
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/bin/Debug/net10.0/NoSpatial.deps.json
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/bin/Debug/net10.0/NoSpatial.dll
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/bin/Debug/net10.0/NoSpatial.pdb
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/obj/Debug/net10.0/NoSpatial.csproj.AssemblyReference.cache
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/obj/Debug/net10.0/NoSpatial.GeneratedMSBuildEditorConfig.editorconfig
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/obj/Debug/net10.0/NoSpatial.csproj.CoreCompileInputs.cache
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/obj/Debug/net10.0/NoSpatial.dll
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/obj/Debug/net10.0/refint/NoSpatial.dll
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/obj/Debug/net10.0/NoSpatial.pdb
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/obj/Debug/net10.0/ref/NoSpatial.dll
+/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/obj/Debug/net10.0/NoSpatial.sourcelink.json

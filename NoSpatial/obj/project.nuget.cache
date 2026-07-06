@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Qlw1avQJpE=",
+  "success": true,
+  "projectFilePath": "/home/ben/code/Resonite Mods/NoSpatial/NoSpatial/NoSpatial.csproj",
+  "expectedPackageFiles": [
+    "/home/ben/.nuget/packages/lib.harmony/2.4.2/lib.harmony.2.4.2.nupkg.sha512",
+    "/home/ben/.nuget/packages/resonitemodloader/5.0.1/resonitemodloader.5.0.1.nupkg.sha512",
+    "/home/ben/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.9/microsoft.aspnetcore.app.ref.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

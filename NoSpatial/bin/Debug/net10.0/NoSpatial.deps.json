@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NoSpatial/1.0.0": {
+        "dependencies": {
+          "Lib.Harmony": "2.4.2",
+          "ResoniteModLoader": "5.0.1"
+        },
+        "runtime": {
+          "NoSpatial.dll": {}
+        }
+      },
+      "Lib.Harmony/2.4.2": {
+        "runtime": {
+          "lib/net10.0/0Harmony.dll": {
+            "assemblyVersion": "2.4.2.0",
+            "fileVersion": "2.4.2.0"
+          }
+        }
+      },
+      "ResoniteModLoader/5.0.1": {
+        "dependencies": {
+          "Lib.Harmony": "2.4.2"
+        },
+        "runtime": {
+          "lib/net10.0/ResoniteModLoader.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NoSpatial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lib.Harmony/2.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D2X9ojVjqbqdqWVK3VQETrEb56yVoXxtEp6tP5UvW0PP+bA4uJiswqOxF8GhH02ECwyevUa9vwhwdLzyXfksbw==",
+      "path": "lib.harmony/2.4.2",
+      "hashPath": "lib.harmony.2.4.2.nupkg.sha512"
+    },
+    "ResoniteModLoader/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-93b3UzjcZzD4QHO3x9LpXEtGAiI5P/ib4zcxUz+f7pYhJO7Fxi09sRLDKPUhJNhNPGVLEEdp7uv4867JtuqBiQ==",
+      "path": "resonitemodloader/5.0.1",
+      "hashPath": "resonitemodloader.5.0.1.nupkg.sha512"
+    }
+  }
+}
