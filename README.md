@@ -2,7 +2,8 @@
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that disables spatialization on audio for the user.\
 \
-This mod is meant to be a minimal band-aid solution for users that want mono audio or do not want to deal with spatialization. (Relevant issue: https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/6418)\
+This mod is meant to be a minimal band-aid solution for users that want mono audio or do not want to deal with spatialization. (Relevant issue: https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/6418)
+\
 If an official solution for this issue is made, please use it instead of this mod.\
 \
 This mod does not make the audio from media sources mono. You may need to do this through the use of external tools.
